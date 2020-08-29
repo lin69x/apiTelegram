@@ -26,4 +26,5 @@ https://api.telegram.org/bot[BOT:TOKEN]/sendMessage?chat_id=[chat_id]&text=[text
 Узнать id чата
 
 https://api.telegram.org/botBOT:TOKEN/getChat?chat_id=@мойканал
+
 Если канал или группа приватная её необходимо сделать на время публичной, после можно вернуть обратно.
