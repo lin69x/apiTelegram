@@ -5,6 +5,7 @@
 
 https://tlgrm.ru/docs/bots/api
 
+
 Создаем Telegram бота
 
   Найдите бота @BotFather (это такой бот, которые умеет создавать и настраивать другие боты):
@@ -16,9 +17,11 @@ https://tlgrm.ru/docs/bots/api
   4) Если имя не занято, получаем сообщение с подтверждением и токен доступа.
     
     
+    
 Проверка отправки сообщения
 
 https://api.telegram.org/bot[BOT:TOKEN]/sendMessage?chat_id=[chat_id]&text=[text]
+
 
 Узнать id чата
 
